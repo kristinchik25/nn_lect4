@@ -17,6 +17,5 @@ XOR	X1, X2	1 слой (8)	Linear	-	Больше нейронов не решаю
 
 ## Задание 3. 
 Спираль (Шум 15%)	X1, X2	4 слоя (6, 6, 6, 6)	Sigmoid	-	Затухание градиента в глубоких сетях
-<img width="1681" height="874" alt="image" src="https://github.com/user-attachments/assets/6994db0e-a4d0-4f09-95b8-42ae16203533" />
-
+<img width="1687" height="859" alt="image" src="https://github.com/user-attachments/assets/75762162-8409-42de-94bc-e801c42ff3dd" />
 
