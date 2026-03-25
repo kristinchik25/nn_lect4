@@ -12,12 +12,11 @@
 
 ## Задание 2. 
 XOR	X1, X2	1 слой (8)	Linear	-	Больше нейронов не решают проблему линейности
-<img width="1685" height="870" alt="image" src="https://github.com/user-attachments/assets/bcf45c2e-83b8-4759-9332-bd64931e207d" />
+<img width="1627" height="876" alt="image" src="https://github.com/user-attachments/assets/aa3a829c-dcbf-44cd-8fdc-7ec6d0e45ab5" />
+
 
 ## Задание 3. 
 Спираль (Шум 15%)	X1, X2	4 слоя (6, 6, 6, 6)	Sigmoid	-	Затухание градиента в глубоких сетях
-<img width="1672" height="841" alt="image" src="https://github.com/user-attachments/assets/143d1e08-f0e7-4935-99dd-b29ee68ea141" />
+<img width="1681" height="874" alt="image" src="https://github.com/user-attachments/assets/6994db0e-a4d0-4f09-95b8-42ae16203533" />
 
-## Результат
 
-## Выводы
